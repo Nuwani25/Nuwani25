@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+<p align="center">
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nuwani25.Nuwani25)
+</p>
 
 <!--
 **Nuwani25/Nuwani25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
