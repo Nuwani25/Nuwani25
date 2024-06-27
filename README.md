@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Nuwani</h1>
 
 
 ![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Nuwani25.Nuwani25)
