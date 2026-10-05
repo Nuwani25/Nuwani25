@@ -1,10 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Nuwani</h1>
-
 # Hi, I'm Nuwani Dahanayake 👋
 
 I'm an Information Technology graduate from SLIIT with QA internship experience and academic projects in web development, mobile development and automated testing.
-
-I'm seeking an entry-level QA/Test Engineer, Software Developer or IT Support role.
 
 ## Skills
 
