@@ -4,7 +4,7 @@ I'm an Information Technology graduate from SLIIT with QA internship experience 
 
 ## Skills
 
-- **Testing:** Manual testing, test case design, regression testing, UAT, Cypress, Selenium and Postman
+- **Testing:** Manual testing, test case design, regression testing, UAT, Cypress and Postman
 - **Development:** JavaScript, Java, Python, React, Node.js, Express, Spring Boot, Flutter and Dart
 - **Databases:** MongoDB, MySQL and Firebase
 - **Tools:** Git, GitHub, Jira, Figma, Power BI and RStudio
